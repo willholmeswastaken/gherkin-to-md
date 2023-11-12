@@ -1,0 +1,22 @@
+{
+  "name": "gherkin-to-md",
+  "version": "1.0.0",
+  "description": "Extracts all of your gherkin steps into a markdown file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gherkin",
+    "markdown"
+  ],
+  "author": "willholmeswastaken",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^10.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.1",
+    "tsx": "^3.12.7"
+  }
+}
